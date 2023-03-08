@@ -1,0 +1,8 @@
+C:\Users\artemmezencev\source\repos\laborig\laborig\bin\Debug\laborig.exe.config
+C:\Users\artemmezencev\source\repos\laborig\laborig\bin\Debug\laborig.exe
+C:\Users\artemmezencev\source\repos\laborig\laborig\bin\Debug\laborig.pdb
+C:\Users\artemmezencev\source\repos\laborig\laborig\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\artemmezencev\source\repos\laborig\laborig\obj\Debug\lab10.csproj.SuggestedBindingRedirects.cache
+C:\Users\artemmezencev\source\repos\laborig\laborig\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\artemmezencev\source\repos\laborig\laborig\obj\Debug\laborig.exe
+C:\Users\artemmezencev\source\repos\laborig\laborig\obj\Debug\laborig.pdb
